@@ -2,7 +2,7 @@
 
 **Dawen Liang** · College of Engineering and Computer Science, Syracuse University
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18719754.svg)](https://doi.org/10.5281/10.5281/zenodo.18719754)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## Abstract
@@ -71,7 +71,7 @@ While the SLR examines how the software I/O stack has evolved to keep up with fa
   author={Liang, Dawen},
   year={2025},
   publisher={Zenodo},
-  howpublished={\url{https://doi.org/10.5281/zenodo.XXXXXXX}},
+  howpublished={\url{https://doi.org/10.5281/zenodo.18719754}},
   note={GitHub: \url{https://github.com/keith-leung/cxl-type3-memory-survey}}
 }
 ```

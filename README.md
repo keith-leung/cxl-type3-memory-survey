@@ -36,10 +36,10 @@ cxl-type3-memory-survey/
 ├── LICENSE                    # CC BY 4.0
 ├── Paper_Final.pdf            # Compiled survey (8 pages, IEEEtran format)
 ├── paper/
-│   ├── cxl_survey.tex         # LaTeX source
+│   ├── main.tex         # LaTeX source
 │   └── references.bib         # BibTeX (51 entries, 36 cited)
 └── data/
-    └── paper_tracking.xlsx    # Paper evaluation scores (49 papers rated)
+    
 ```
 
 ## Research Questions
